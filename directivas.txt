@@ -4,4 +4,4 @@ algunas directivas a tener en cuenta en el proyecto
 3.Se trabajará sobre 2 ramas (main y production), la mayoria del tiempo 
 se trabajará en la rama main con libertad de hacer merges cuando lo vea conveniente,
 para hacer merge a la rama productión se deberá hacer una reunión en la que todos developers 
-deben dar su aprobación antes de haver los cambios.
+deben dar su aprobación antes de hacer los cambios.
